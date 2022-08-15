@@ -1,6 +1,6 @@
-availableImages=['Images/bean.jpg','Images/doraemon.jpg','Images/minion.jpg','Images/mouse.jpg','Images/noddy.jpg','Images/popeye.jpg',
-'Images/scooby.jpg','Images/shinchan.jpg','Images/bean.jpg','Images/doraemon.jpg','Images/minion.jpg','Images/mouse.jpg','Images/noddy.jpg',
-'Images/popeye.jpg','Images/scooby.jpg','Images/shinchan.jpg']
+availableImages=['bean.jpg','doraemon.jpg','minion.jpg','mouse.jpg','noddy.jpg','popeye.jpg',
+'scooby.jpg','shinchan.jpg','bean.jpg','doraemon.jpg','minion.jpg','mouse.jpg','noddy.jpg',
+'popeye.jpg','scooby.jpg','shinchan.jpg']
 
 function start(){
     let moves =0;
